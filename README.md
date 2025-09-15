@@ -52,9 +52,9 @@ See our [Contributing Guide](docs/contributing.md) for more details.
 
 ## Example PRDs
 
-- [Task Manager PRD](prds/productivity/task-manager.md): A simple task management app with prioritization and notifications.
-- [Language Learning App PRD](prds/education/language-learning.md): An app for learning vocabulary through spaced repetition.
-- [Digital Art Canvas PRD](prds/creative/digital-art-canvas.md): A collaborative art tool for real-time drawing.
+- [Interval Walking Coach PRD](prds/exercise/interval-walking-coach.md): A simple coach to help you with interval walking.
+- [Daily Mood Tracker PRD](prds/health/daily-mood-tracker.md): A daily mood tracker.
+- [Simple Calculator PRD](prds/utility/simple-calculator.md): A simple calculator.
 
 ## Why Contribute?
 
